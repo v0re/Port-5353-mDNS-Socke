@@ -1,0 +1,42 @@
+OS 名稱	Microsoft Windows 10 專業版
+版本	10.0.19045 組建 19045
+其他 OS 描述 	無法使用
+OS 廠商	Microsoft Corporation
+系統名稱	DESKTOP-BDFEV40
+系統製造廠商	ASUSTeK COMPUTER INC.
+系統型號	D820MT_D820SF_BM3CE
+系統類型	x64 PC
+系統 SKU	SKU
+處理器	Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz，3401 Mhz，4 個核心，8 個邏輯處理器
+BIOS 版本/日期	ASUSTeK COMPUTER INC. 0609, 2016/9/20
+SMBIOS 版本	3.0
+內嵌控制器版本	255.255
+BIOS 模式	UEFI
+BaseBoard 製造商	ASUSTeK COMPUTER INC.
+BaseBoard 產品	D820MT_D820SF_BM3CE
+BaseBoard 版本	Rev X.0x
+平台角色	桌上型電腦
+安全開機狀態	關閉
+PCR7 設定	需要提升才能檢視
+Windows 目錄	C:\Windows
+系統目錄	C:\Windows\system32
+開機裝置	\Device\HarddiskVolume3
+地區設定	台灣
+硬體抽象層	版本 = "10.0.19041.6456"
+使用者名稱	DESKTOP-BDFEV40\USER
+時區	台北標準時間
+已安裝的實體記憶體 (RAM)	8.00 GB
+總共實體記憶體	7.88 GB
+可用實體記憶體	3.68 GB
+虛擬記憶體總計	7.88 GB
+可用虛擬記憶體	3.61 GB
+分頁檔空間	0 個位元組
+核心 DMA 保護	關閉
+虛擬化型安全性	未啟用
+Windows Defender 應用程式控制原則	強制
+Windows Defender 應用程式控制使用者模式原則	關閉
+裝置加密支援	需要提升才能檢視
+Hyper-V - VM 監視模式延伸	是
+Hyper-V - 第二層位址轉譯延伸	是
+Hyper-V - 韌體中已啟用虛擬化	否
+Hyper-V - 資料執行保護	是
